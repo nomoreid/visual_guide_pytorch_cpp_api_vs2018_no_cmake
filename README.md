@@ -31,6 +31,7 @@ visual guide for pytorch 1.0 c++ api  on VS2017 , with no CMake (cpu only)
 
 ## step 6 : test with some code
 
+  https://pytorch.org/cppdocs/
   ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/11.png)
   
   It works!!!
