@@ -1,4 +1,4 @@
-# visual guide : pytorch c++ api (libtorch) setting on vs2017 (not 2018) , no CMake 
+# visual guide : pytorch c++ api (libtorch) setting on vs2017 , no CMake 
 visual guide for pytorch 1.0 c++ api  on VS2017 , with no CMake (cpu only)
 
 
