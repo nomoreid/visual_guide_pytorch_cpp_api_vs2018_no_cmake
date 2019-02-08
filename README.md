@@ -1,4 +1,4 @@
-# visual guide : pytorch cpp api setting on vs2018 , no cmake 
+# visual guide : pytorch cpp api setting on vs2018 , no CMake 
 visual guide for pytorch 1.0 c++ api  on VS2018 , with no CMake (cpu only)
 
 
