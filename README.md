@@ -1,8 +1,8 @@
-# visual guide : pytorch c++ api setting on vs2018 , no CMake 
+# visual guide : pytorch c++ api (libtorch) setting on vs2018 , no CMake 
 visual guide for pytorch 1.0 c++ api  on VS2018 , with no CMake (cpu only)
 
 
-## step 1 : download torch api on https://pytorch.org/ 
+## step 1 : download libtorch on https://pytorch.org/ 
   stable -> windows -> libtorch -> c++ -> None(cpu only) 
 
 ## step 2 : unzip to some folder (ex d:\test\libtorch )
