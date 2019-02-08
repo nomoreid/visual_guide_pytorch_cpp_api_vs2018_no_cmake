@@ -12,3 +12,8 @@ step 2 : unzip to some folder (ex d:\test\libtorch )
 step 3 : create new c++ project on VS2017
   ![folder preview](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/1.png)
 
+step 4 : change project win64 release. IMPORTANT!!!
+
+step 4 : change project setting , add include directory 
+  
+
