@@ -24,8 +24,8 @@ visual guide for pytorch 1.0 c++ api  on VS2018 , with no CMake (cpu only)
   3. on c/C++ tab ,  "SDL checks" to "No"
   4. on c/c++ -> Language tab ,  "Conformance mode" to "No"
   
-  ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/9.png|width=100)
-  ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/8.png|width=100)
-  ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/5.png|width=100)
-  ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/6.png|width=100)
+  ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/9.png)
+  ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/8.png)
+  ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/5.png)
+  ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/6.png)
 
