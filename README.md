@@ -15,6 +15,8 @@ visual guide for pytorch 1.0 c++ api  on VS2018 , with no CMake (cpu only)
 # step 4 : change project ->> win64 release <<- . IMPORTANT!!!
   ![folder preview](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/_44.PNG)
   * some function of torchlib don't work on debug mode. see ( https://github.com/pytorch/pytorch/issues/15589?fbclid=IwAR24TH_8j6ADJnsqozC-dqGVAfYbANcOw77Z8ES2TRfAhDYT-Rv8UTn-GuU )
+  
+  > For MSVC, `std::string` is not defined the same for the configurations Debug and Release. Since we built libtorch with the **Release** configuration, if you try to use the **Debug** configuration when compiling the executable, the `std::string` object could not be passed into the torch library, and hence the error.
 
 # step 4 : change project setting , add include directory 
   
