@@ -12,8 +12,9 @@ visual guide for pytorch 1.0 c++ api  on VS2018 , with no CMake (cpu only)
 # step 3 : create new c++ project on VS2017
   ![folder preview](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/1.png)
 
-# step 4 : change project win64 release. IMPORTANT!!!
+# step 4 : change project ->> win64 release <<- . IMPORTANT!!!
   ![folder preview](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/_44.PNG)
+  * some function of torchlib don't work on debug mode. see ( https://github.com/pytorch/pytorch/issues/15589?fbclid=IwAR24TH_8j6ADJnsqozC-dqGVAfYbANcOw77Z8ES2TRfAhDYT-Rv8UTn-GuU )
 
 # step 4 : change project setting , add include directory 
   
