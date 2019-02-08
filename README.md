@@ -29,9 +29,16 @@ visual guide for pytorch 1.0 c++ api  on VS2018 , with no CMake (cpu only)
   ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/5.png)
   ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/6.png)
 
-## step 6 : change some code
+## step 6 : test with some code
 
   ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/11.png)
   
   It works!!!
   ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/14.png)
+
+  model load toturial code
+  ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/14.png)
+  
+  It works!!!
+  ![](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/14.png)
+  
