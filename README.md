@@ -7,4 +7,6 @@ step1 : download torch api on https://pytorch.org/
 
 step2 : unzip to some folder (ex d:\test\libtorch )
   libtorch-win-shared-with-deps-latest.zip -> d:\test\libtorch
+  ![folder preview](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake/blob/master/screenshot/0.PNG)
 
+step3 :
